@@ -22,7 +22,7 @@ Las tecnologías utilizadas para la elaboración del sitio web han sido:
 
 HTML5
 CSS3
-SASS
+
 
 ## Autores ✒️
 
